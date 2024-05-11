@@ -1,11 +1,9 @@
-### Hello, my name is Camille 👋
+ Olá, meu nome é Camille! 👋
 
+👩‍💻 Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas do IFPE (Instituto Federal de Pernambuco);
 
- 👩‍💻 Currently, I'm a student in the Analysis and Systems Development course at IFPE (Institute Federal de Pernambuco);
- 
- ✨ interning at TRF5;
- 
- ☕ I'm looking to learn more about the back-end area, specifically about Java system development;
- 
- 🗺️ Residing in Brazil.
+✨ Estou estagiando no TRF5 (Tribunal Regional da 5ª Região);
+
+☕ Estou buscando aprender mais sobre a área de back-end, mais especificamente sobre desenvolvimento de sistemas Java;
+
 
