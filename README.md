@@ -1,6 +1,6 @@
  Olá, meu nome é Camille! 👋
 
-👩‍💻 Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas no IFPE (Instituto Federal de Pernambuco);
+👩‍💻 Atualmente, Estudo Análise e Desenvolvimento de Sistemas no IFPE (Instituto Federal de Pernambuco);
 
 ✨ Estagiária no TRF5 (Tribunal Regional da 5ª Região);
 
